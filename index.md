@@ -6,6 +6,4 @@ Interested in adding examples? Raise a Pull Request
 
 ### Data Structures
 
-[< Back Home](index.md)
-
 [Lists](lists.md)
