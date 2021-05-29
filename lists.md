@@ -1,8 +1,6 @@
 ---
-title: Lists
-layout: template
-filename: lists.md
---- 
+permalink: /lists.html
+---
 
 # Data Structures: Lists
 
