@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Functions](FUNCTIONS.md)
+    * [abs](functions/ABS.md)
     * [len](functions/LEN.md)
 * [Lists](LISTS.md)
     * [append](lists/APPEND.md)
