@@ -8,6 +8,6 @@
 
 ## Test & Method
 
-{% include "../helpers/CODE_BLOCK.md" %}
+{% include "../helpers/PYTHON_CODE_BLOCK.md" %}
 {% include "./code/test_len.py" %}
 {% include "../helpers/CODE_BLOCK.md" %}
