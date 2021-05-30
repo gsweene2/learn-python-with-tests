@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Functions](FUNCTIONS.md)
+    * [len](functions/LEN.md)
 * [Lists](LISTS.md)
     * [append](lists/APPEND.md)
     * [extend](lists/EXTEND.md)
